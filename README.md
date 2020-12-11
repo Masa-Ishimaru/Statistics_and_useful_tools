@@ -5,4 +5,4 @@
 - Chi square test
 - Password generator :)
 
-![Weibull_probability_plot](https://user-images.githubusercontent.com/50325966/101885713-d4447700-3bdd-11eb-840d-321e5ba7957b.jpg)
+![Weibull_probability_plot](https://user-images.githubusercontent.com/50325966/101886327-a9a6ee00-3bde-11eb-867f-67ae694d1e1b.jpg)
