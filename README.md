@@ -7,4 +7,5 @@
 - outlier detection with higher confidence using several outlier detection algorithms and thresholds
 
 ![Weibull_probability_plot](https://user-images.githubusercontent.com/50325966/101886327-a9a6ee00-3bde-11eb-867f-67ae694d1e1b.jpg)
+
 ![outlier_detection](https://user-images.githubusercontent.com/50325966/227400843-f0d50f45-1cef-49ed-82a3-0d694fab8c31.jpg)
